@@ -444,7 +444,7 @@ video {
 .place-1,
 .place-3 {
     border-radius: 16px;
-    background: url('../Images/Group39.png'), lightgray 50% / cover no-repeat;
+    background: url('../images/Group39.png'), lightgray 50% / cover no-repeat;
     display: flex;
     justify-content: end;
     width: 90%;
@@ -453,7 +453,7 @@ video {
 
 .place-2 {
     border-radius: 16px;
-    background: url("../Images/Group40.png"), lightgray 50%;
+    background: url("../images/Group40.png"), lightgray 50%;
     justify-content: start;
     display: flex;
     justify-content: start;
@@ -464,7 +464,7 @@ video {
 .icon-text {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 12px;
 }
 
 .place-discription {
