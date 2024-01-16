@@ -14,6 +14,68 @@ span {
     font-weight: 700;
 }
 
+.banner {
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('../images/Group13\(1\).png');
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-size: cover;
+    margin: 0 8%;
+    border-radius: 10px;
+}
+
+.menu img {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.banner-title {
+    color: #f8f8f8;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 64px;
+    font-weight: 800;
+}
+
+.banner-dscription {
+    padding: 20px;
+    color: #f8f8f8;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.button-head {
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+    gap: 15px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.banner-button {
+    border-radius: 8px;
+    background: #FF5400;
+    padding: 15px 40px;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+select {
+    background-color: #f8f8f8;
+    padding: 15px 40px;
+    border-radius: 8px;
+}
+
+.where {
+    background-color: #f8f8f8;
+    padding: 15px 40px;
+    border-radius: 8px;
+}
+
 .icon-name {
     display: flex;
     align-items: center;
